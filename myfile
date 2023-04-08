@@ -5,6 +5,11 @@
 <body>
 <div><p>Hello how are you?</p>
 <form>
+<input type="text" name="rname">
+<br>
+<input type="number" name="age">
+<br>
+<input type="submit> name="submit">
 </form>
 </body>
 <html>
