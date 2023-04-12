@@ -4,7 +4,7 @@
 <style></style>
 <body>
 <div><p>Hello how are you?</p>
-<form>
+<form action="#">
 <input type="text" name="rname">
 <br>
 <input type="number" name="age">
